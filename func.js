@@ -1,3 +1,3 @@
 function git() {
-   console.log("Git is good");
+   console.log("Git is nice");
 }
